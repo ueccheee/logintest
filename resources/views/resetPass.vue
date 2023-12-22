@@ -4,7 +4,7 @@
         <input type="password" v-model="form.password" required autocomplete="off">
         <label for="password">password_confirmation:</label>
         <input type="password" v-model="form.password_confirmation" required autocomplete="off">
-        <button type="submit">リセットじゃ</button>
+        <button type="submit">リセットじゃよ</button>
     </form>
 </template>
 
